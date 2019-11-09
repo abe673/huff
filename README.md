@@ -1,7 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [aku](https://github.com/abe673/anonymous)
-i love javascript
+You can use the [aku](https://github.com/abe673/anonymous) love javascript
 
 ### Markdown
 

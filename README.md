@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/abe673/anonymous)
+You can use the [aku](https://github.com/abe673/anonymous)
 i love javascript
 
 ### Markdown
